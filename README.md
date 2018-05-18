@@ -1,4 +1,0 @@
-# DerankFlappyBird
-
-
-For TeamDerank

@@ -2,11 +2,11 @@
 var isPressed = false;
 var mainState = {
     preload: function() {
-        game.load.image('bird', 'assets/ethan.png');
+    game.load.image('bird', 'assets/ethan.png');
 		game.load.image('pipe', 'assets/Bowie.png');
 		game.load.audio('small', 'assets/madamada.wav');
 		game.load.audio('big', 'assets/yo.wav');
-		game.load.audio('big_small', 'assets/madamada.wav');
+		game.load.audio('big_small', 'assets/winkleFace.wav');
 		game.load.audio('agane', 'assets/bye.wav');
 		game.load.image('background', 'assets/BackGround.png');
     },
